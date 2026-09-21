@@ -1,0 +1,23 @@
+# Vivado Build and Cache Folders
+.Xil/
+project.cache/
+project.hw/
+project.ip_user_files/
+project.sim/
+project.runs/
+
+# Except the final bitstream file which you want to keep
+!project.runs/impl_1/*.bit
+
+# Vivado logs and temp files
+*.jou
+*.log
+*.str
+*.pb
+*.mti
+*.wdb
+*.dir/
+
+# OS generated files
+.DS_Store
+Thumbs.db
