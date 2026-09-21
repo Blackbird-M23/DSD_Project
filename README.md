@@ -174,3 +174,16 @@ The processor operates in two main phases across 10 internal FSM states:
 ## 🏫 Academic Attribution
 
 This project was developed for the course **CSE 4224: Digital System Design Laboratory**.
+
+
+
+---
+
+## 👨‍💻 Author
+
+
+**Farhan Miraz Shihab**  
+Department of Computer Science & Engineering (CSE)  
+Khulna University of Engineering & Technology (KUET)  
+- GitHub: [@Blackbird-M23](https://github.com/Blackbird-M23)  
+- LinkedIn: [Farhan Miraz Shihab](https://www.linkedin.com/in/farhanmirazshihab/)
