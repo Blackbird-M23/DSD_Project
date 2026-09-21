@@ -169,13 +169,6 @@ The processor operates in two main phases across 10 internal FSM states:
             └── crypto_top.v             # Top-Level Structural Interconnect
 ```
 
----
-
-## 🏫 Academic Attribution
-
-This project was developed for the course **CSE 4224: Digital System Design Laboratory**.
-
-
 
 ---
 
